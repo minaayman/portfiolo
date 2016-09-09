@@ -1,0 +1,19 @@
+body {
+    font-family: "lato", sans-serif;
+    color:#7d97ad;
+}
+.logo{
+    margin-top: 20px;
+}
+
+
+.thinner{
+    font-weight: 100;
+}
+.big-text{
+    font-size:60px;
+}
+.font_color{
+    color:#2d3c49;
+}
+
